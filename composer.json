@@ -1,5 +1,5 @@
 {
-  "name": "carefeed/ccda-parser-library",
+  "name": "uhin/ccda-parser-library",
   "description": "A library providing data objects to interact with Consolidated Clinical Document Architecture (C-CDA) data.",
   "license": "MIT",
   "type": "library",
